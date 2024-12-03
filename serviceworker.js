@@ -9,7 +9,7 @@ urlsToCache = [
     './assets/img/portfolio/cake.png',
     './assets/img/portfolio/smartPark.png',
     './assets/img/portfolio/smartPark-thumbnail.png',
-    './assets/img/portfolio/safe.png',
+    './assets/img/portfolio/smarthouse.png',
     './assets/img/portfolio/submarine.png',
     './css/styles.css'
 ];

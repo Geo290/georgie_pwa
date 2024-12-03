@@ -1,7 +1,7 @@
 {
-    "name":"Mi primer PWA",
-    "short_name":"PWA",
-    "description":"Esta es mi primer PWA",
+    "name":"Georgie PWA",
+    "short_name":"Georgie",
+    "description":"My portfolio",
     "display":"standalone",
     "start_url":"./?_source=web_app_manifest",
     "background_color":"#0969ff",
